@@ -29,8 +29,12 @@ Desarrollo de sitio web corporativo con enfoque en comunicación visual, identid
 casos-estudio-ux-ui/
 │
 ├── 01-camview-redesign/
+│
 ├── 02-dashboard-app/
+│
 ├── 03-liveguardtech-website/
+│
 ├── 04-pevapi-company-website/
+│
 └── README.md
 ```

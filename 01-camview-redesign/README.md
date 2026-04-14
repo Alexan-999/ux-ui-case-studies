@@ -1,8 +1,8 @@
 # 📹 CamView – UX/UI Rediseño Caso de Estudio
 
-> 🛠️ Rol: Frontend Developer / UX Thinker  
-> ⏱️ Contexto: Mejora interna de producto en producción  
-> 🎯 Enfoque: Usabilidad, navegación, visualización de datos y experiencia mobile-first  
+> Rol: Frontend Developer / UX Thinker  
+>  Contexto: Mejora interna de producto en producción  
+> Enfoque: Usabilidad, navegación, visualización de datos y experiencia mobile-first  
 
 ## Introducción
 
@@ -31,3 +31,16 @@ Esto generaba:
 
 ---
 
+## 🔍 Análisis del sistema actual
+
+### 📱 Mobile (versión actual)
+
+![LiveView Mobile Old](./assets/current/mobile/liveview.png)
+![Reports Table Mobile Old](./assets/current/mobile/reports-table.png)
+
+- Navegación oculta en menú poco accesible
+- Tablas no responsivas
+- Difícil interacción táctil
+- Saturación de información
+
+---
