@@ -18,7 +18,7 @@ Rediseño de web app corporativa, incorporando widgets basados en datos de tabla
 ### [Sitio Web – LiveGuardTech](./03-liveguardtech-website)
 Mejora de experiencia de usuario en sitio web en producción, enfocada en responsividad, estructura visual, claridad de contenido y diseño de interfaz.
 
-### [Sitio Web – Pevapi](./04-company-web-page)
+### [Sitio Web – Pevapi](./04-pevavi-website)
 Desarrollo de sitio web corporativo con enfoque en comunicación visual, identidad y experiencia de navegación.
 
 ---
