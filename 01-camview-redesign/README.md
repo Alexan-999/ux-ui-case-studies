@@ -91,11 +91,11 @@ Se realizó un rediseño completo basado en principios de UX:
 ### 📱 Mobile / Tablet
 
 ![Sidebar Mobile](./assets/redesign/mobile/sidebar.png)
-
+![Dropdown Mobile current](./assets/current/mobile/dropdown.png)
 - Sidebar accesible desde botón
 - Header con selector de sitio dinámico
 - Navegación clara y consistente
-
+- Mejora sustancial en interfaz de usuario
 ---
 
 ### 💻 Desktop
@@ -105,5 +105,18 @@ Se realizó un rediseño completo basado en principios de UX:
 - Sidebar fija
 - Header con selector de sitio + perfil
 - Mejor distribución del espacio
+
+---
+
+
+### 📱 Mobile
+
+| Antes | Después |
+|------|--------|
+| ![Mobile Home Current](./assets/current/mobile/home.png) | ![Mobile Dashboard New](./assets/redesign/mobile/home-dashboard.png) |
+
+| Navegación (Antes) | Navegación (Después) |
+|-------------------|---------------------|
+| ![Dropdown](./assets/current/mobile/navbar.png) | ![Sidebar](./assets/redesign/mobile/sidebar.png) |
 
 ---
