@@ -1,29 +1,29 @@
-# 🎨 Casos de Estudio UX/UI
+# 🎨 UX/UI Case Studies
 
-## Portafolio enfocado en UX/UI donde documento cómo abordo problemas reales a través del desarrollo frontend.
+## A portfolio focused on UX/UI where I document how I approach real-world problems through frontend development.
 
-Cada caso de estudio muestra el proceso, las decisiones de diseño y el impacto de las soluciones, con un enfoque en experiencia de usuario, interfaces y mejora continua.
+Each case study highlights my design process, decision-making, and the impact of the solutions, with a strong focus on user experience, interfaces, and continuous improvement.
 
 ---
-> 💡 En estos proyectos muestro cómo tomo decisiones de UX/UI basadas en análisis, iteración y enfoque en el usuario.
+> 💡 These projects showcase how I make UX/UI decisions based on analysis, iteration, and user-centered thinking.
 
-## 📂 Proyectos
+## 📂 Projects
 
 ### [Web App – CamView](./01-camview-redesign)
-Rediseño UX/UI completo basado en el análisis del producto actual, incluyendo comparativas entre la versión existente y propuestas en Figma (mobile y desktop).
+Full UX/UI redesign based on analysis of the current product, including comparisons between the existing version and proposed solutions in Figma (mobile and desktop).
 
 ### [Dashboard - Analytics App](./02-dashboard-app)
-Rediseño de web app corporativa, incorporando widgets basados en datos de tablas para mejorar la visualización y toma de decisiones, además optimizando navegación para mejorar usabilidad y aprovechamiento del espacio.
+Redesign of a corporate web app, incorporating data-driven widgets to improve visualization and decision-making, while optimizing navigation and layout efficiency.
 
 ### [Sitio Web – LiveGuardTech](./03-liveguardtech-website)
-Mejora de experiencia de usuario en sitio web en producción, enfocada en responsividad, estructura visual, claridad de contenido y diseño de interfaz.
+User experience improvements for a production website, focused on responsiveness, visual structure, content clarity, and interface design.
 
 ### [Sitio Web – Pevapi](./04-pevavi-website)
-Desarrollo de sitio web corporativo con enfoque en comunicación visual, identidad y experiencia de navegación.
+Development of a corporate website focused on visual communication, branding, and navigation experience.
 
 ---
 
-## 📁 Estructura del repositorio
+## 📁 Repository Structure
 
 ```bash
 casos-estudio-ux-ui/
